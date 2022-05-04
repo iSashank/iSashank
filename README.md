@@ -26,7 +26,7 @@ located_in: Bangalore, India
 from: Visakhapatnam (India)
 
 fields_of_interests: ["Cyber Security", "Minecraft Development", "iOS Development", "Android Development", "Graphic Desgining"]
-currently_learning: ["microROS"]
+currently_learning: ["Everything"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
 ```
 
@@ -74,7 +74,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/05/2022 17:13:39 UTC
+ Last Updated on 0/05/2022 12:15:00 IST
 <!--END_SECTION:waka-->
 
 <p align="center">
