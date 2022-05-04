@@ -1,7 +1,3 @@
-[![Actions Status](https://github.com/iSashank/iSashank/workflows/wakatime-stats/badge.svg)](https://github.com/iSashank/iSashank/actions)
-[![Actions Status](https://github.com/iSashank/iSashank/workflows/update-gh-activity/badge.svg)](https://github.com/iSashank/iSashank/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=isashank.isashank)
-
 <p align="center">
 <br/>
 <a href="https://twitter.com/Sashank_xP">
