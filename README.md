@@ -41,12 +41,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
 </p>
 
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://isashank.vercel.app/api/top-played">
 </p>
  
