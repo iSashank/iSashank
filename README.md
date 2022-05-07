@@ -33,16 +33,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
 <p align="center">
   <img src="https://isashank.vercel.app/api/top-played">
 </p>
- 
-```yaml
-section: spotify components info
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
 
- Last Updated on 07/05/2022 19:08:03 IST
-<!--END_SECTION:waka-->
+   Last Updated on 07/05/2022 22:20:03 IST
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
