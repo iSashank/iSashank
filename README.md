@@ -20,11 +20,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=iSashank&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
-<p align="center">
   <a href="https://isashank.vercel.app/api/now-playing?open">
     <img src="https://isashank.vercel.app/api/now-playing">
   </a>
