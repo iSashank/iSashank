@@ -30,7 +30,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
   <img alig src="https://github-profile-trophy.vercel.app/?username=iSashank&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqatrwmz74iax3f4iubksmsubq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqatrwmz74iax3f4iubksmsubq&cover_image=true&theme=default&bar_color=69e8b7&bar_color_cover=true)]]
 
 <p align="center">
   <a href="https://isashank.vercel.app/api/now-playing?open">
@@ -48,7 +47,6 @@ original_idea: natemoo-re
 improved_by: andyruwruw
 note: thanks to both of them!
 ```
-
 
 **:zap: Recent Activity:**
 
@@ -72,7 +70,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 0/05/2022 12:15:00 IST
+ Last Updated on 07/05/2022 19:08:03 IST
 <!--END_SECTION:waka-->
 
 <p align="center">
