@@ -13,7 +13,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Student:
 
     def __init__(self):
@@ -38,7 +37,7 @@ me.say_hi()
   <img src="https://isashank.vercel.app/api/top-played">
 </p>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
