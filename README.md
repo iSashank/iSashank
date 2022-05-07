@@ -29,8 +29,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
   <img src="https://isashank.vercel.app/api/top-played">
 </p>
 
-   Last Updated on 07/05/2022 22:20:03 IST
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
