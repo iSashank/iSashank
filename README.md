@@ -48,28 +48,6 @@ improved_by: andyruwruw
 note: thanks to both of them!
 ```
 
-**:zap: Recent Activity:**
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Warspion%20Network%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: IST/India
-
-💬 Programming Languages: 
-Python                   56 mins             ████████████████████████░   99.21% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
-
-🐱‍💻 Projects: 
-Warspion Network         56 mins             ████████████████████████░   99.21% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
-
-```
-
-
  Last Updated on 07/05/2022 19:08:03 IST
 <!--END_SECTION:waka-->
 
