@@ -30,7 +30,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
   <img alig src="https://github-profile-trophy.vercel.app/?username=iSashank&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vqatrwmz74iax3f4iubksmsubq&cover_image=true&theme=default&bar_color_cover=false&bar_color=69e8b7)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqatrwmz74iax3f4iubksmsubq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vqatrwmz74iax3f4iubksmsubq&cover_image=true&theme=default&bar_color=69e8b7&bar_color_cover=true)]]
 
 <p align="center">
   <a href="https://isashank.vercel.app/api/now-playing?open">
