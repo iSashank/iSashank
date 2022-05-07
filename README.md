@@ -9,17 +9,38 @@
 
 </p>
 
-```yaml
-name: Sashank Bhamidi
-located_in: Bangalore, India
-from: Visakhapatnam (India)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-fields_of_interests: ["Cyber Security", "Minecraft Development", "iOS Development", "Android Development", "Graphic Desgining"]
-currently_learning: ["Everything"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "Drawing", "Music"]
+
+class Student:
+
+    def __init__(self):
+        self.name = "Sashank Bhamidi"
+        self.role = "Student"
+        self.language_spoken = ["hi_IN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Student()
+me.say_hi()
 ```
+  
+## 🔧 Technologies & Tools
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
   
 <p align="center">
   <a href="https://isashank.vercel.app/api/now-playing?open">
