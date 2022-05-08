@@ -55,12 +55,6 @@ me.say_hi()
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
