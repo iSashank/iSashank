@@ -47,7 +47,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 GitHub profile statistics</summary>
   <br/>
     <img alt="iSashank's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iSashank&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <img alt="iSashank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSashank&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
