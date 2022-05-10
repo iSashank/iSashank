@@ -37,6 +37,15 @@ me.say_hi()
   <img src="https://isashank.vercel.app/api/top-played">
 </p>
 
+
+## 📄 Status
+
+<br>
+<br>
+<a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/438672336921690112.png"></a>
+<br>
+<br>
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
