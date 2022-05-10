@@ -50,7 +50,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 <details> 
-  <summary>💻 GitHub profile statistics</summary>
+  <summary>💻 GitHub Profile Statistics</summary>
   <br/>
     <img alt="iSashank's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iSashank&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <img alt="iSashank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSashank&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -68,19 +68,15 @@ me.say_hi()
     <br>
 </details>
 
-```html
-<div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/mpzyqdng" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
+<details>
+  <summary>✉ Contact Information </summary?
+    <table>
+    <tr><th colspan="2"><b>Contact Me</b></th></tr>
+    <tr><td><b>E-Mail</b></td><td><b><a href="mailto:sashankbhamidi@gmail.com">sashankbhamidi@gmail.com</a></b></td></tr>
+    <tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/295216225636581377">Sashank#6969</a></b></td></tr>
+    </table>
     </div>
-```
+</details>
 
 
 <p align="center">
