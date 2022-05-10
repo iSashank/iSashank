@@ -69,7 +69,7 @@ me.say_hi()
 </details>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/295216225636581377)](https://discord.com/users/295216225636581377)
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
+[![Discord Presence](https://lanyard.cnrad.dev/api/295216225636581377)](https://discord.com/users/295216225636581377)
 
 
 <p align="center">
