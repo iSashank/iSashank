@@ -63,8 +63,7 @@ me.say_hi()
   <summary>📄 Status</summary>
     <br>
     <br>
-    <a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/295216225636581377.png"></a>
-    [![Discord Presence](https://lanyard.cnrad.dev/api/295216225636581377)](https://discord.com/users/295216225636581377)
+    <a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://lanyard.cnrad.dev/api/295216225636581377"></a>
     <br>
     <br>
 </details>
