@@ -38,13 +38,7 @@ me.say_hi()
 </p>
 
 
-## 📄 Status
 
-<br>
-<br>
-<a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/654429117923721256.png"></a>
-<br>
-<br>
 
 ## Technologies & Tools
 
@@ -62,6 +56,16 @@ me.say_hi()
   <img alt="iSashank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSashank&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+<details> 
+  <summary>📄 Status</summary>
+    <br>
+    <br>
+    <a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/295216225636581377.png"></a>
+    <br>
+    <br>
 </details>
 
 <p align="center">
