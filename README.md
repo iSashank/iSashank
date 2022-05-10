@@ -42,7 +42,7 @@ me.say_hi()
 
 <br>
 <br>
-<a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/438672336921690112.png"></a>
+<a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/654429117923721256.png"></a>
 <br>
 <br>
 
