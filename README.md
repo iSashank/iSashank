@@ -69,7 +69,7 @@ me.say_hi()
 </details>
 
 <details>
-  <summary>✉ Contact Information </summary?
+  <summary>✉ Contact Information </summary>
     <table>
     <tr><th colspan="2"><b>Contact Me</b></th></tr>
     <tr><td><b>E-Mail</b></td><td><b><a href="mailto:sashankbhamidi@gmail.com">sashankbhamidi@gmail.com</a></b></td></tr>
