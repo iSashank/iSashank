@@ -64,11 +64,12 @@ me.say_hi()
     <br>
     <br>
     <a href="https://discord.com/users/295216225636581377"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/295216225636581377.png"></a>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/295216225636581377)](https://discord.com/users/295216225636581377)
     <br>
     <br>
 </details>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/295216225636581377)](https://discord.com/users/295216225636581377)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
