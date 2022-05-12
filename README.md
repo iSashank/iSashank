@@ -70,7 +70,7 @@ me.say_hi()
    <br>
     <table>
     <tr><th colspan="2"><b>Contact Me</b></th></tr>
-        <tr><td><b>E-Mail</b></td><td><b><a href="mailto:sashankbhamidi@gmail.com">sashankbhamidi@gmail.com</a></b></td></tr>
+        <tr><td><b>E-Mail</b></td><td><b><a href="mailto:sashankbhamidi@gmail.com">sashank@warspion.com</a></b></td></tr>
         <tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/295216225636581377">@Sashank#6969</a></b></td></tr>
         <tr><td><b>Twitter</b></td><td><b><a href="https://twitter.com/Sashank_xP">@Sashank_xP</a></b></td></tr>
         <tr><td><b>Reddit</b></td><td><b><a href="https://www.reddit.com/user/SashankBhamidi">u/SashankBhamidi</a></b></td></tr>
