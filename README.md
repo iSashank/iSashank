@@ -7,7 +7,7 @@
 class Student:
 
     def __init__(self):
-        self.name = "Sashank Bhamidi"
+        self.name = "Sashank"
         self.role = "Student"
         self.language_spoken = ["hi_IN", "en_US"]
 
